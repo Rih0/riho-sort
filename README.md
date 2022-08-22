@@ -1,2 +1,2 @@
 # riho-sort
-sort algorithm
+The implement of sort algorithm.
